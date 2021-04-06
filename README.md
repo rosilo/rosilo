@@ -1,2 +1,2 @@
 # rosilo
-A metapackage with the current compatible version of the packages.
+A metapackage with the current compatible version of the rosilo packages.
