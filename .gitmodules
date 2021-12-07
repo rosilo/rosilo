@@ -1,21 +1,21 @@
 [submodule "rosilo_robot_kinematics"]
 	path = rosilo_robot_kinematics
-	url = https://github.com/rosilo/rosilo_robot_kinematics.git
+	url = git@github.com/rosilo/rosilo_robot_kinematics.git
 [submodule "rosilo_robot_driver"]
 	path = rosilo_robot_driver
-	url = https://github.com/rosilo/rosilo_robot_driver.git
+	url = git@github.com/rosilo/rosilo_robot_driver.git
 [submodule "rosilo_datalogger"]
 	path = rosilo_datalogger
-	url = https://github.com/rosilo/rosilo_datalogger.git
+	url = git@github.com/rosilo/rosilo_datalogger.git
 [submodule "rosilo_robot_driver_denso"]
 	path = rosilo_robot_driver_denso
-	url = https://github.com/rosilo/rosilo_robot_driver_denso.git
+	url = git@github.com/rosilo/rosilo_robot_driver_denso.git
 [submodule "rosilo_clock"]
 	path = rosilo_clock
-	url = https://github.com/rosilo/rosilo_clock.git
+	url = git@github.com/rosilo/rosilo_clock.git
 [submodule "rosilo_conversions"]
 	path = rosilo_conversions
-	url = https://github.com/rosilo/rosilo_conversions.git
+	url = git@github.com/rosilo/rosilo_conversions.git
 [submodule "rosilo_polaris_vega"]
 	path = rosilo_polaris_vega
-	url = https://github.com/rosilo/rosilo_polaris_vega.git
+	url = git@github.com/rosilo/rosilo_polaris_vega.git
